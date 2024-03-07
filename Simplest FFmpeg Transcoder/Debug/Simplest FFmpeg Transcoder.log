@@ -1,0 +1,15 @@
+﻿生成启动时间为 2024/3/7 10:29:20。
+     1>项目“C:\Users\81228\Documents\Visual Studio 2015\Projects\Simplest FFmpeg Transcoder\Simplest FFmpeg Transcoder\Simplest FFmpeg Transcoder.vcxproj”在节点 2 上(Build 个目标)。
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin\CL.exe /c /Iinclude /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Yu"stdafx.h" /Fp"Debug\Simplest FFmpeg Transcoder.pch" /Fo"Debug\\" /Fd"Debug\vc140.pdb" /Gd /TP /analyze- /errorReport:prompt "Simplest FFmpeg Transcoder.cpp"
+         Simplest FFmpeg Transcoder.cpp
+     1>c:\users\81228\documents\visual studio 2015\projects\simplest ffmpeg transcoder\simplest ffmpeg transcoder\simplest ffmpeg transcoder.cpp(463): warning C4244: “=”: 从“int64_t”转换到“int”，可能丢失数据
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\81228\Documents\Visual Studio 2015\Projects\Simplest FFmpeg Transcoder\Debug\Simplest FFmpeg Transcoder.exe" /INCREMENTAL /NOLOGO /LIBPATH:lib avcodec.lib avformat.lib avutil.lib avdevice.lib avfilter.lib postproc.lib swresample.lib swscale.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /Debug /PDB:"C:\Users\81228\Documents\Visual Studio 2015\Projects\Simplest FFmpeg Transcoder\Debug\Simplest FFmpeg Transcoder.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\81228\Documents\Visual Studio 2015\Projects\Simplest FFmpeg Transcoder\Debug\Simplest FFmpeg Transcoder.lib" /MACHINE:X86 "Debug\Simplest FFmpeg Transcoder.obj"
+         Debug\stdafx.obj
+         Simplest FFmpeg Transcoder.vcxproj -> C:\Users\81228\Documents\Visual Studio 2015\Projects\Simplest FFmpeg Transcoder\Debug\Simplest FFmpeg Transcoder.exe
+     1>已完成生成项目“C:\Users\81228\Documents\Visual Studio 2015\Projects\Simplest FFmpeg Transcoder\Simplest FFmpeg Transcoder\Simplest FFmpeg Transcoder.vcxproj”(Build 个目标)的操作。
+
+已成功生成。
+
+已用时间 00:00:00.64
